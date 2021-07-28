@@ -1,3 +1,5 @@
+#Balance Chemical Euation With C++
+
 Input sample:
 Al4C3 + H20 = Al(OH)3 + CH4
 Output sample:
